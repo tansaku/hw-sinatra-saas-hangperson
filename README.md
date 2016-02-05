@@ -1,5 +1,5 @@
 Hangperson: a scaffolded (!) ESaaS getting-started assignment
-=============================================================
+==============================================================
 
 (v1.1, September 2015.  Written by Armando Fox and Nick Herson)
 
